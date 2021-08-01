@@ -19,7 +19,7 @@ git_email="ashikay@outlook.com"
 git config --global user.name $git_usrname
 git config --global user.email $git_email
 
-git pull
+# git pull
 git add .
 git commit -m "Added the latest. ${commitMsg}."
 
