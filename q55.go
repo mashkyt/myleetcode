@@ -1,5 +1,5 @@
 package leetcode
-
+// not sure what to do next?
 func canJump(nums []int) bool {
     result := false
     tmpMax := nums[0]
